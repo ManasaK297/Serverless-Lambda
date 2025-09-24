@@ -1,0 +1,7 @@
+__pycache__/ 
+.venv/ 
+functions.db 
+*.pyc 
+.idea/ 
+.vscode/ 
+lambda_project.egg-info/ 
